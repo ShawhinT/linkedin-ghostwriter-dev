@@ -1,0 +1,100 @@
+index,notes,Hook-Body discrepancy,Bad Voice,Hallucinated Experience,User error,Bad CTA placement,Bad Hook,Bad P.S. Placement,False claim,Misc
+0,"Hook-Body discrepancy.
+
+Hook contradicts first bullet point. Model should check for inconsistencies during step 6!",True,False,False,False,False,False,False,False,False
+1,Voice doesn't sound quite like me.,False,True,False,False,False,False,False,False,False
+2,"Voice doesn't sound quite like me. ""But the real game-changer?"" Isn't something I'd say.
+
+""I wasn’t a natural AI coder"" This is made up.",False,True,True,False,False,False,False,False,False
+3,"""Need to learn what you don’t know?"" doesn't sound like me.",False,True,False,False,False,False,False,False,False
+4,Hook-body discrep. Hook and body repeat same thought. Model should check for this in step 6.,True,False,False,False,False,False,False,False,False
+5,"Model misunderstood input. User should give more details.
+
+Hallucinates experience/story. System prompt could include more background on Shaw.
+""A year ago, I was starting at zero. No audience, no safety net, and honestly, no idea if turning my skills into a business would work.""",False,False,True,True,False,False,False,False,False
+6,"Hook and 1st line of body repeat.
+
+Voice isn't great. ""No heavy math, no complex setup—just hands-on tools you’ll actually use.""",True,True,False,False,False,False,False,False,False
+7,"""My first upload? Maybe 12 views (and I’m pretty sure half were from my mom).""
+- Doesn't sound like me
+- Made up story",False,True,True,False,False,False,False,False,False
+8,"""—no corporate fluff, no filler."" Doesn't sound like me.",False,True,False,False,False,False,False,False,False
+9,"""When I started my entrepreneurial journey, I was laser-focused on building up my bank account."" Made up.",False,False,True,False,False,False,False,False,False
+10,Voice could be improved. but okay.,False,True,False,False,False,False,False,False,False
+11,"Hook and body repeat.
+
+The model seems to love to say ""no PhD required""",True,False,False,False,False,False,False,False,False
+12,nan,False,False,False,False,False,False,False,False,False
+13,"Misses point. User should have given more context.
+
+Makes up items that are not in video",False,False,True,True,False,False,False,False,False
+14,"Hook and body repeat.
+
+Voice can be improved. List items should be short and punchy.",True,True,False,False,False,False,False,False,False
+15,"Model misses point. User should give more input.
+
+Blog should be linked before CTA, but that isn't a big deal.",False,False,False,True,True,False,False,False,False
+16,Hook doesn't really sound like me,False,True,False,False,False,False,False,False,False
+17,"Hook and body sound repetitive. These case may be because model is biased by body draft step.
+
+Voice could be improved.
+
+Hook is also confusing",True,True,False,False,False,True,False,False,False
+18,"PS should be at the very end
+
+GitHub repo link should be before question.
+
+Model misunderstood user input",False,False,False,True,True,False,True,False,False
+19,,False,False,False,False,False,False,False,False,False
+20,Made up numbers. User should have gave more context,False,False,True,True,False,False,False,False,False
+21,,False,False,False,False,False,False,False,False,False
+22,"Blog link before CTA!
+
+Voice could be improved.
+
+This could be shorter",False,True,False,False,True,False,False,False,False
+23,,False,False,False,False,False,False,False,False,False
+24,Made up repo content. User should provide.,False,False,True,True,False,False,False,False,False
+25,"Voice could be improved ""No hacks or dead-end dependencies—just a clear, repeatable workflow""",False,True,True,False,False,False,False,False,False
+26,Misunderstood input. User should clarify.,False,False,False,True,False,False,False,False,False
+27,"Blog link before CTA!
+
+Bad hook.",False,False,False,False,True,True,False,False,False
+28,"Voice could be improved. ""I decided to test it in the most personal way possible—by fine-tuning it on my own face""
+",False,True,False,False,False,False,False,False,False
+29,"Bad hook.
+
+Motivation isn't good. User should give more guidance.
+
+Content doesn't align with article. User should give context",False,False,True,True,True,True,False,False,False
+30,"""—no fluff, just what works:"" unnecessary.
+
+I don't user pyenv",False,True,True,False,False,False,False,False,False
+31,"""My blog posts stalled at 20 views. Honestly, I thought about quitting—more than once."" made up, but fine.",False,False,True,False,False,False,False,False,False
+32,"I don't like this ""—no fluff, just a playbook you can use right away."" Seems to use this a lot.",False,True,False,False,False,False,False,False,False
+33,"Numbers made up. User should provide.
+
+""Biggest lesson? Progress isn’t linear—shipping, failing, and iterating are the milestones that matter."" This is another format the model likes that doesn't sound like me.",False,True,True,True,False,False,False,False,False
+34,"""- Most videos start as rough drafts (and plenty never make it out)."" made up.",False,False,True,False,False,False,False,False,False
+35,"""**3. Skills Used**  
+- *Corporate*: Lots of meetings and stakeholder wrangling—plus, often more data engineering than you expect.  
+- *Freelance*: You handle everything: client calls, proposals, project management, and delivery."" Feels fake.",False,False,False,False,False,False,False,True,False
+36,"""6. **Responding to emails, fast** – Opportunities disappear in an inbox."" misunderstood.",False,False,False,False,False,False,False,False,False
+37,"Number list items are too long. Voice issue.
+
+User should have specified all 15 points",False,True,False,True,False,False,False,False,False
+38,,False,False,False,False,False,False,False,False,False
+39,"Hook and body repeat.
+
+Made up strategy. User should provide.",True,False,True,True,False,False,False,False,False
+40,,False,False,False,False,False,False,False,False,False
+41,Made up details. Model should avoid this or ask for more details if needed.,False,False,True,False,False,False,False,False,False
+42,"Hook and body repeat.
+
+Model should not return links.",True,False,False,False,False,False,False,False,True
+43,"Angle should have been ""What I'd do differently"". User should have said.",False,False,False,True,False,False,False,False,False
+44,,False,False,False,False,False,False,False,False,False
+45,Bold claims with lead scoring.,False,False,False,False,False,False,False,True,False
+46,2nd to last line is unneeded.,False,False,False,False,False,False,False,False,True
+47,Too many hypens. No more than 1 per post.,False,True,False,False,False,False,False,False,False
+48,Dashboard is not real-time.,False,False,True,False,False,False,False,False,False

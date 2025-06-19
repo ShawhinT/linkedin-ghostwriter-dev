@@ -1,0 +1,61 @@
+index,notes,Double CTA,Hook-Body Discrep,Didn't follow writing steps,Didn't use user hook,Factual errors/inconsistencies,Bad hook,Missing my experience/insight,Uncharacteristic body structure,Bad P.S. placement,Lacks Shaw's Voice,Misunderstood input
+0,"Hook-body discrepancy. Hook says ""landing a job isn't only way to make money"" but then still lists it as the first way to make money. 
+
+Model skipped step 6.",False,True,True,False,False,False,False,False,False,False,False
+1,Failed to consider user input as hook.,False,False,False,True,False,False,True,False,False,False,False
+2,Failed to consider user input as hook.,False,False,False,True,False,False,False,False,False,False,False
+3,Body includes use cases I've never done.,False,False,False,False,False,False,True,False,False,False,False
+4,,False,False,False,False,False,False,False,False,False,False,False
+5,Model misinterpreted 70k has a dollar figure rather than follower count,False,False,False,False,False,False,False,False,False,False,True
+6,"Promise in hook is too big. It says non-coder can build these projects in under an hour when I don't know if I could e.g. portfolio chatbot, email classifier.
+
+Also it mentioned no-code tools I've never used before.",False,False,False,False,False,True,True,False,False,False,False
+7,Insights in body are not quite things I've experienced.,False,False,False,False,False,False,True,False,False,False,False
+8,Model should have add a line for each idea to give readers more detail,False,False,False,False,False,False,True,True,False,False,False
+9,,False,False,False,False,False,False,False,False,False,False,False
+10,Framing of body is not quite how I'd do it,False,False,False,False,False,False,True,False,False,False,False
+11,Body does not align with blog content,False,False,False,False,False,False,True,False,False,False,False
+12,,False,False,False,False,False,False,False,False,False,False,False
+13,,False,False,False,False,False,False,False,False,False,False,False
+14,,False,False,False,False,False,False,False,False,False,False,False
+15,"Weak hook. I don't think people know what a ""BERT tutorial"" is.",False,False,False,False,False,True,False,False,False,False,False
+16,,False,False,False,False,False,False,False,False,False,False,False
+17,nan,False,False,False,False,False,False,False,False,False,False,False
+18,"Weak hook.
+
+P.S. should be after post, not before CTA",False,False,False,False,False,True,False,False,True,False,False
+19,Body is not quite aligned with my experience.,False,False,False,False,False,False,True,False,False,False,False
+20,Model should mention failures before numbers to make it not sound like a flex post.,False,False,False,False,False,False,False,True,False,False,False
+21,Failed to understand user's intent. Post seems more about general technical debt rather than debt accumulated from using AI to code for you.,False,False,False,False,False,False,True,False,False,False,False
+22,Blog link should be before question,False,False,False,False,False,False,False,True,False,False,False
+23,"Voice doesn't sound quite like me. ""Research flex"" isn't something I would say.",False,False,False,False,False,False,False,False,False,True,False
+24,Voice doesn't quit sound like me.,False,False,False,False,False,False,False,False,False,True,False
+25,Body doesn't fully align with blog content,False,False,False,False,False,False,True,False,False,False,False
+26,Failed to understand that two books were included in input.,False,False,False,False,False,False,False,False,False,False,True
+27,"Voice doesn't quite sound like me. For example ""Want to see these in action (and which one to use when)?  
+Read the full breakdown here: [link]""",False,False,False,False,False,False,False,False,False,True,False
+28,"Failed to think step by step about the hook.
+
+Insights don't sound like me.",False,False,False,False,False,True,True,False,False,False,False
+29,Body feels a little too salesy.,False,False,False,False,False,False,False,False,False,True,False
+30,,False,False,False,False,False,False,False,False,False,False,False
+31,Parts of body don't sound like me and aren't quite aligned with my experience.,False,False,False,False,False,False,True,False,False,True,False
+32,Last line of body sounds too salesy,False,False,False,False,False,False,False,False,False,True,False
+33,Body not aligned with my experience,False,False,False,False,False,False,True,False,False,False,False
+34,"Post is not quite aligned with my experience.
+
+Parts of post don't sound like me.",False,False,False,False,False,False,True,False,False,True,False
+35,Voice could be improved.,False,False,False,False,False,False,False,False,False,True,False
+36,Model misunderstood skill #6,False,False,False,False,False,False,False,False,False,False,True
+37,,False,False,False,False,False,False,False,False,False,False,False
+38,Body is not aligned with my insight/take,False,False,False,False,False,False,True,False,False,False,False
+39,Failed to understand user intent. My content is about AI not generated by it.,False,False,False,False,False,False,False,False,False,False,True
+40,Voice could be improved.,False,False,False,False,False,False,False,False,False,True,False
+41,Body is not aligned with experience. Leader asked for 1:1 coaching not internal training.,False,False,False,False,False,False,True,False,False,False,False
+42,Voice could be improved,False,False,False,False,False,False,False,False,False,True,False
+43,"Failed to understand user intent. This is a framework id user if I started over, not one I'm currently using.",False,False,False,False,False,False,True,False,False,False,True
+44,First myth is not a myth!,False,False,False,False,False,False,True,False,False,False,False
+45,Voice could be improved,False,False,False,False,False,False,False,False,False,True,False
+46,,False,False,False,False,False,False,False,False,False,False,False
+47,Hook and 1st line of body don't flow well. Repitition.,False,True,False,False,False,False,False,False,False,False,False
+48,Failed to understand user intent. Dashboard was for analyzing market not keeping track of jobs/leads.,False,False,False,False,False,False,True,False,False,False,True

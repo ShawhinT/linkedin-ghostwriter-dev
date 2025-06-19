@@ -1,0 +1,190 @@
+User Input
+"5 ways to make money with your AI skills 
+- get a job 
+- implementation 
+- strategy/consulting 
+- education
+- product"
+"AI principles I know at 29, I wish I had known at 24.
+- Don't use AI
+- Focus on problems not tech
+- Spend more time on data curation
+- Data quality > data quantity
+- Run experiments"
+"Most top AI engineers aren’t more intelligent than you.
+They just do this one thing more… BUILD"
+"7 LLM use cases (have helped me avoid hiring people as a solopreneur)
+coding assistant
+Going from 0 to 1 on a new topic
+Writing copy
+Email outreach scripts
+ICP refinement
+Podcasts into blogs
+Creating peer groups for course"
+By the end of this post you’ll be able to build your first AI agent
+My Journey from 0 to 70k (key lessons)
+"5 AI projects you can build in (less than) an hour
+PDF Summarization tool
+Clustering customer reviews
+Document QA Chatbot
+YT comment sentiment analysis
+Gmail inbox categorization"
+50k subs YouTube milestone
+"30 AI Projects You Can Build This Weekend (Free Guide)
+
+Covers Software 1.0 (Analysis & Data Pipelines), Software 2.0 (ML), Software 3.0 (Prompt Engineering, RAG, AI Agents, Fine-tuning)"
+"Reminder: being rich isn’t about what’s in you bank account, but what’s in your mind… keep learning"
+"A problem with AI today is that it means different things to different people. Share 3 types of software.
+
+Software 1.0 = Rule-based systems
+Software 2.0 = ML
+Software 3.0 = LLMs"
+"Share blog: 5 Ai projects you can build this weekend (with python)
+
+Automated Bday message emailer
+Arrive AI paper retriever
+Resume matcher
+Automated DocString Writer
+YT video to blog converter"
+"3 communication tips for data scientists.
+use stories
+Use examples
+Use analogies"
+Share video: Fine-tuning LLMs with MLX
+"How I’d learn AI in 2025 (if I knew nothing)
+Use ChatGPT (or the like)
+Install Python
+Build an Automation (Beginner) 
+Build an ML Project (Intermediate)
+Build a Real-world Project (Advanced)"
+Share blog: fine-tuning Bert for text classification
+"My 2025 AI Tech Stack
+Python
+Jupyter lab
+Cursor
+ChatGPT 
+OpenAI API 
+Hugging Face
+Sentence transformers 
+GitHub"
+Share blog: Python QuickStart for People Learning AI 
+Share GitHub repo: free LLM course. P.S. Shoutout upcoming AI Builders Cohort
+"I paid a $100k/mo entrepreneur to talk to me… here’s what I learned.
+Customer pain points over your experience and skills
+Price for value not time
+Higher price tag, longer copy (delay the ask)
+Get hyper-clear on avatar then attract them with free content
+The diff between $10k and $100k/mo is often business strategy, not tech skills"
+Breaking down my first $10k month (as an entrepreneur). Revenue sources and breakdown
+Managing technical debt when coding with AI. 2 things I consider. 1) my experience with the lang/library and 2) how many times I need to run project.
+"Share blog: compressing LLMs.
+
+Snippet: While the immense scale of LLMs is responsible for their impressive performance across a wide range of use cases, this presents challenges in their application to real-world problems. In this article, I discuss how we can overcome these challenges by compressing LLMs. I start with a high-level overview of key concepts and then walk through a concrete example with Python code."
+Share video: multimodal LLMs. Using Llama 3.2 Vision to do CV
+Share GitHub repo: free AI agents course.
+"Share blog: Local LLM fine-tuning on Mac
+
+Context:
+This article is part of a larger series on using large language models (LLMs) in practice. In a previous post, I showed how to fine-tune an LLM using a single (free) GPU on Google Colab. While that example (and many others) readily runs on Nvidia hardware, they are not easily adapted to M-series Macs. In this article, I walk through an easy way to fine-tune an LLM locally on a Mac."
+"Book share.
+Super Study Guide: Transformers & Large Language Models.
+Building LLMs for Production is a LLM practitioner’s guidebook."
+"Share blog: multimodal models. 3 ways to make LLMs multimodal.
+LLM + Tools
+LLM + Adapters
+Unified Models"
+"Share blog: fine-tuning FLUX.1 on my face!
+
+Context:
+Although large language models (LLMs) seem to get all the attention these days, image-generation models have been advancing just as rapidly. The current state-of-the-art is FLUX.1, an image model from Black Forest Labs (a faction from the Stable Diffusion team). In this article, I share the full process I used for fine-tuning this model to generate unlimited high-quality photos of myself."
+Share blog: multimodal embeddings
+"Share video: My AI development setup from scratch.
+
+1. Xcode 
+2. Homebrew 
+3. Python 
+4. GitHub CLI 
+5. Cursor"
+"Journey post: Leaving my job and failing for 15 months. Finally hitting $10k in one month.
+
+AI Builders Bootcamp: $9,265.48
+Medium (blog): $894.52
+YouTube: $542.73
+Consulting calls: $363.21
+Total: $10,826.72
+"
+"Share blog: How to Deploy ML Solutions with FastAPI, Docker, and GCP"
+Birthday post. Past year recap by the numbers.
+Milestone post: hitting 60k subs on YouTube. Why: learning and communication.
+Corporate vs freelance data science. Key differences.
+"10 (non-technical) skills I needed to learn to survive as a data entrepreneur
+Explaining technical ideas to non-technical people
+Talking to customers
+Formulating business problems
+Asking good questions
+Validating product/service ideas
+Responding to emails quickly
+Sales
+Warm outreach
+Making a landing page
+Copy writing"
+"15 things I had to learn to become a (data) entrepreneur
+Ability to identify pain points
+Coding
+Effectively use AI tools
+How to sell
+Talk to clients
+Write
+Make a website
+make content
+Cold out bound
+Just post
+Look foolish
+Constantly learn"
+"$1500 side hustles for data scientists and MLEs
+
+Ideas:
+Writing technical blogs on Medium (Towards Data Science)
+Mentorship calls ($250-350/hr)
+AI Consulting calls ($100-$500/hr)
+Freelance work ($50-$250/hr)
+Freelance technical writing ($100-200 per article)
+YouTube videos
+Newsletter
+Write a book
+Content sponsorships
+"
+"My $15,000 AI content creation strategy"
+"5 Tips for Building AI systems That Are Useless and Forgotten
+Spend no time on data curation
+Assume your data quality is good (without looking)
+Only train one version of your model
+Focus more on using new tech over the business problem
+Don’t worry about evals until ready to push to prod"
+Story of top ai leader at big consulting firm booking me for AI coaching
+"How to Build a (Local) Document QA Bot with Ollama + Gradio 🧑‍💻
+Format
+pain point/problem
+Solution (project idea)
+Steps (pseudo code)
+Helpful libs/resoucres
+"
+"My biggest mistake: pursing AI consulting when my goal was to develop products.
+Free AI consultations (for target customer)
+Make content about it
+Book more calls
+Make more content
+Build prototypes
+Get feedback from customers
+Repeat
+"
+"5 Resume Myths That Kept Me Unemployed
+more is better
+I don’t need to tailor my resume
+I need an objective statement
+Writing down my experience is enough
+I don’t need a portfolio"
+• 3 LLM use cases (that are not a chatbot) ◦ But how do I actually use ai—3 real world use cases ◦ Lead scoring ◦ Lead (unsupervised) clustering. Customer segmentation ◦ LI post writer (FT an LLM to write LI posts) ◦ LI post scoring ◦ Concept math?
+What is data quality? Accuracy and diversity.
+25 AI Buzzwords (Simply) Explained for Entrepreneurs
+Demo Upwork Job Dashboard. Analyzing gig market.

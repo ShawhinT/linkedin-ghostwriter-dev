@@ -1,0 +1,139 @@
+post_id,passed,reasoning
+post-004,True,"Step 1: Summarize Shaw's style. Shaw's posts are practical, educational, and structured, often using lists or frameworks. He uses clear, literal language, sometimes with a light, original metaphor or emoji, but avoids idioms, business clichés, and motivational punchlines. His posts follow a hook → problem/observation → solution/resource structure, and end with a factual engagement prompt.
+
+Step 2: Check for red flags. 
+- The post uses a numbered list of use cases, which is on-brand.
+- The opener is factual and sets up the problem (solopreneurship = every task is your responsibility or you pay for help), which is consistent with Shaw's style.
+- The list items are clear, literal, and practical, with no idioms, business clichés, or motivational language.
+- The closing sentence is a factual engagement prompt: “What’s another practical task you’ve automated with LLMs?”
+- There is one sentence that could be considered a summarizing punchline: “These use cases have become weekly tools in my workflow—and have made solo building much more manageable.” However, this is a factual summary, not a motivational or tricolon punchline, and it does not use idioms or generic phrasing.
+- No excessive rhetorical questions, no asyndetic parallelism with negation, no salesy or emotional appeals, and no business jargon.
+
+Step 3: Weigh red flags against overall structure. The only possible minor deviation is the sentence summarizing the impact of the use cases, but it is factual and fits Shaw’s style of sharing practical outcomes. The rest of the post is highly consistent with Shaw’s structure and tone.
+
+Step 4: Cross-reference with examples. Shaw often uses lists of use cases, practical summaries, and factual engagement prompts. The structure and language here are very similar to his positive examples.
+
+Step 5: Final check. The post is practical, educational, and clear, with no idioms, business clichés, or motivational punchlines. The engagement prompt is factual and at the end. There are no cumulative minor deviations that would change the overall feel or clarity of the post.
+
+Conclusion: The post sounds like Shaw Talebi."
+post-008,True,"Step 1: Summarize Shaw's style. Shaw's posts are practical, educational, and structured with a hook, problem/observation, and solution/resource. He uses clear, stepwise lists, avoids idioms and business jargon, and ends with a factual engagement prompt. Playful or light humor is rare but possible, and he avoids motivational punchlines or summarizing tricolons.
+
+Step 2: Check for red flags. This post opens with a factual milestone and a direct, practical hook. The body is a stepwise list of what worked, using clear, literal language. There are no idioms, business clichés, or motivational catchphrases. The list is practical and specific, with no summarizing tricolon or punchline. The engagement prompt is factual and at the end. There is no excessive use of rhetorical questions, no asyndetic parallelism with negation, and no salesy or emotional appeals.
+
+Step 3: Weigh red flags against overall structure. There are no red flags present. The post follows Shaw's typical structure: hook (milestone), problem/observation (took longer, failed experiments), solution/resource (stepwise list of what worked), and a factual engagement prompt at the end.
+
+Step 4: Cross-reference with examples. The structure, tone, and content closely match Shaw's positive examples, especially those where he shares personal milestones or lessons learned (e.g., breaking down his first $10k month, content creation journey). The language is clear, practical, and educational.
+
+Step 5: Final cumulative check. There are no subtle or cumulative deviations. The post is practical, educational, and on-brand throughout. It provides clear value, follows the expected structure, and avoids all major and minor red flags."
+post-009,True,"Step 1: Summarize Shaw's style. Shaw's posts are practical, educational, and structured with a hook, problem/observation, and solution/resource. He avoids idioms, business jargon, and motivational punchlines, and uses clear, literal language. Resource announcements typically include a stepwise breakdown or clear explanation of what's inside.
+
+Step 2: Check for red flags. 
+- The post opens with a clear, factual hook and a practical value proposition (""If you want to learn AI, building real projects beats reading about it."").
+- The phrase ""beats reading about it"" is conversational but not an idiom or cliché.
+- The post explains the resource and provides a breakdown of the types of projects included, using clear, literal language (""Software 1.0"", ""Software 2.0"", ""Software 3.0"").
+- No idioms, business clichés, or motivational catchphrases are present.
+- The engagement prompt is factual and at the end.
+- The example formatting uses a colon and bullet points, which is consistent with Shaw's style.
+- There is one em-dash, which is acceptable.
+- The post does not use tricolons, asyndetic parallelism, or summarizing punchlines.
+
+Step 3: Weigh red flags against overall structure. There are no major or cumulative minor deviations. The post is practical, educational, and follows Shaw's typical structure for resource announcements.
+
+Step 4: Cross-reference with examples. Shaw's resource announcements (e.g., the ""Free AI Agents course"" post) use a similar structure: clear breakdown, practical focus, and a factual engagement prompt.
+
+Step 5: Final check. The post provides clear value, follows the hook-problem-solution structure, and is on-brand for Shaw. There are no significant or cumulative minor deviations.
+
+Conclusion: The post sounds like Shaw Talebi."
+post-005,True,"Step 1: Summarize Shaw's style. Shaw's posts are practical, educational, and structured with a clear hook, problem/observation, and solution/resource. He uses stepwise lists, clear explanations, and factual engagement prompts. He avoids idioms, business jargon, motivational catchphrases, and summarizing tricolons. Playful metaphors are rare and original, not generic. 
+
+Step 2: Check for red flags. 
+- The post opens with a factual observation about why people don't ship their first AI agent, which fits Shaw's style.
+- The main body is a stepwise, practical list with clear, literal language and concrete examples (e.g., summarizing emails, scheduling events).
+- The list is specific and actionable, matching Shaw's approach to resource breakdowns.
+- The phrase “Don’t wait for perfect—just get a basic demo working and iterate from there.” contains a minor motivational element and uses an em-dash, but this is a single instance and is not a generic idiom or business cliché. The phrase is practical and directly related to the process, not a summarizing punchline or tricolon.
+- The engagement prompt is factual and at the end: “Which AI agent project do you want to build first?”
+
+Step 3: Weigh red flags. The only minor deviation is the “Don’t wait for perfect—just get a basic demo working and iterate from there.” sentence, which is slightly motivational but still practical and not a cliché. There are no idioms, business jargon, or summarizing tricolons. The post is otherwise highly consistent with Shaw’s style.
+
+Step 4: Cross-reference with examples. Shaw’s posts often include stepwise lists, practical advice, and factual engagement prompts. The structure and tone here are highly similar to his positive examples.
+
+Step 5: Final check. The post is practical, educational, and clear, with only a minor deviation that does not change the overall tone or clarity. It follows Shaw’s structure and intent closely."
+post-002,True,"Step 1: Summarize Shaw's style. Shaw's posts are practical, educational, and structured with a clear hook, problem/observation, and solution/resource. He avoids idioms, motivational catchphrases, and business jargon. He uses clear, literal language, and his engagement prompts are factual and at the end. He sometimes uses playful or curiosity-driven openers, but rarely.
+
+Step 2: Check for red flags. 
+- The post uses a list of lessons, which is consistent with Shaw's style.
+- The opener is mildly reflective/motivational but not overtly so. It is factual and sets up the list.
+- The list items are practical and literal, with no idioms or business jargon. The only phrase that comes close is ""Don’t guess—test and see what works,"" but this is more of a literal instruction than a motivational catchphrase.
+- The engagement prompt is factual and at the end.
+- There is no excessive use of rhetorical questions, tricolons, or asyndetic parallelism with negation.
+- No excessive em-dashes (just one, used in a literal context).
+
+Step 3: Weigh red flags. There are no major red flags. The post is practical, educational, and follows Shaw's structure. The only minor deviation is the slightly reflective opener, but this is within the range of Shaw's style, as seen in some of his posts (e.g., ""My biggest mistake: chasing AI consulting projects instead of building products. (Here’s the process that fixed it.)"").
+
+Step 4: Cross-reference with examples. Shaw has posts that reflect on lessons learned and share practical lists. The structure and tone are consistent with his style.
+
+Step 5: Final check. The post is practical, educational, and clear, with no significant deviations. It sounds like Shaw."
+post-003,True,"Step 1: Summarize Shaw's style. Shaw's posts are factual, practical, and educational, often using clear, stepwise lists or frameworks. He avoids idioms, motivational catchphrases, and business jargon. His posts follow a hook → problem/observation → solution/resource structure, and end with a factual engagement prompt.
+
+Step 2: Check for red flags. 
+- The post opens with a factual observation, which is consistent with Shaw's style.
+- The phrase ""It isn’t about IQ or reading every research paper. The real difference is how many projects you finish—especially if you get them in front of real users."" is direct and practical, not motivational or idiomatic.
+- The list uses clear, literal language: ""You get fast feedback (instead of guessing what works)"", ""You build practical intuition for tools and approaches"", ""You make—and remember—real mistakes"". These are practical, not idiomatic or cliché.
+- The sentence ""Most people get stuck reading or watching instead of doing. But the engineers making progress are the ones learning by building, even if their projects are small or incomplete."" is factual and practical, not motivational or summarizing in a tricolon format.
+- The engagement prompt is factual and at the end: ""What’s the smallest project you’ve shipped recently?""
+- There is one em-dash, which is acceptable.
+- No idioms, business jargon, or motivational catchphrases are present.
+
+Step 3: Weigh red flags against overall structure. There are no significant red flags. The post is practical, educational, and follows Shaw's structure.
+
+Step 4: Cross-reference with examples. The post is very similar in tone and structure to Shaw's positive examples, such as the post about explaining things better or the one about learning by building.
+
+Step 5: Final check. The post provides clear value, follows the hook-problem-solution structure, and ends with a factual engagement prompt. There are no cumulative minor deviations that change the overall feel or clarity of the post."
+post-001,True,"Step 1: Summarize Shaw's style. Shaw's posts are practical, educational, and structured, often using clear lists or frameworks. He avoids idioms, business clichés, and motivational catchphrases. His posts follow a hook → problem/observation → solution/resource structure, and end with a factual engagement prompt.
+
+Step 2: Check for red flags. 
+- The post uses a numbered list with clear, literal explanations for each path, which is consistent with Shaw's style.
+- The opener is practical and curiosity-driven, not motivational or emotional.
+- There are no idioms, business clichés, or tricolons with negation.
+- The engagement prompt is factual and at the end: “Which path would you add to this list?”
+- The example formatting is standard (numbered list), and explanations are clear and concrete.
+- There is one minor deviation: the phrase “this path takes more effort upfront, but has higher upside if you find real product-market fit” is slightly more conversational than Shaw’s typical style, but it is not a motivational punchline or idiom.
+
+Step 3: Weigh red flags against overall structure. The post is highly practical, educational, and follows Shaw’s typical structure. The minor conversational phrase does not significantly change the tone or clarity.
+
+Step 4: Cross-reference with examples. Shaw has several posts that use similar list structures and practical breakdowns (e.g., the “25 AI Buzzwords Explained” and “7 Basic AI Terms” posts). The engagement prompt is also consistent with his style.
+
+Step 5: Final check. The post provides clear value, follows the expected structure, and does not contain idioms, clichés, or motivational punchlines. The minor conversational phrase is not enough to flag the post as not Shaw.
+
+Conclusion: The post sounds like Shaw Talebi."
+post-006,False,"Step 1: Summarize Shaw's style. Shaw's posts are practical, educational, and structured with a clear hook, problem/observation, and solution/resource. He avoids idioms, motivational catchphrases, and business jargon. His posts use clear, literal language, and end with a factual engagement prompt. Lists are stepwise and explanations are concrete.
+
+Step 2: Check for red flags. This post contains several red flags:
+- The opener is motivational and summarizing: ""Start before you feel ready"" and ""Consistency, not launches"" are both common motivational phrases, not literal or technical explanations.
+- The list items are phrased as generic life lessons rather than concrete, technical, or business-specific steps. Phrases like ""build momentum,"" ""make a big splash,"" and ""focus on one channel"" are more typical of general self-help or business advice than Shaw's usual style.
+- The post ends with a generic engagement prompt, but the overall tone is more motivational than factual or educational.
+- There is no clear problem/observation step; the post jumps from the hook to the list of lessons, skipping the context or explanation of why these lessons matter in a technical or business sense.
+
+Step 3: Weigh red flags against overall structure. While the post is structured as a list and is practical in intent, the language and tone are more motivational and generic than Shaw's typical posts. The lack of technical detail, concrete examples, or a clear problem/solution framework further distances it from Shaw's style.
+
+Step 4: Cross-reference with examples. Shaw's posts about milestones (e.g., income, entrepreneurship) include specific numbers, breakdowns, and context, and avoid generic advice. This post lacks those elements and instead uses summarizing, motivational language.
+
+Step 5: Final check. The cumulative effect of motivational phrasing, lack of technical detail, and absence of a clear problem/solution structure means this post does not sound like Shaw Talebi."
+post-010,False,"Step 1: Summarize Shaw's style. Shaw's posts are practical, educational, and structured with a hook, a problem/observation, and a solution/resource. He avoids idioms, motivational catchphrases, and business clichés, and his engagement prompts are factual and at the end. He uses clear, literal language and stepwise breakdowns.
+
+Step 2: Identify red flags. The post opens with a motivational idiom: 'being rich isn’t about what’s in your bank account, but what’s in your mind.' This is a classic motivational catchphrase and not characteristic of Shaw's style. The phrase 'is the lever that creates real opportunities' is also somewhat figurative. The post uses a summarizing tricolon: 'Every technical skill you pick up (coding, AI, business fundamentals) is a deposit that compounds over time.' The phrase 'deposit that compounds over time' is a financial metaphor, which is not typical for Shaw, who prefers literal explanations. The overall tone is motivational and generic, rather than practical and educational. The engagement prompt is at the end, which is correct, but the rest of the post does not follow Shaw's typical structure or tone.
+
+Step 3: Weigh red flags against overall structure. The post contains multiple major red flags: motivational idiom, figurative language, and a generic, motivational tone. There is no clear stepwise breakdown or practical framework, and the post does not provide concrete value or actionable steps.
+
+Step 4: Cross-reference with examples. Shaw's posts avoid motivational idioms and figurative language, and always provide practical, educational value. This post is closer to a generic motivational LinkedIn post than Shaw's typical style.
+
+Step 5: Final check. The post contains multiple major deviations (idioms, motivational tone, figurative language, lack of practical breakdown), which collectively make it not sound like Shaw Talebi."
+post-007,True,"Step 1: Review Shaw's style from the examples. Shaw's posts are practical, educational, and structured with a clear hook, problem/observation, and solution/resource. He uses stepwise lists, clear explanations, and factual engagement prompts. He avoids idioms, business jargon, motivational punchlines, and generic phrasing. Examples are introduced with 'e.g.' and engagement prompts are factual and at the end.
+
+Step 2: Check for red flags. This post opens with a factual hook and addresses a common misconception (that AI projects take a long time). It then provides a stepwise list of 5 concrete project ideas, each with a brief, literal explanation. There are no idioms, business jargon, or motivational phrases. The list is practical and clear. The engagement prompt is factual and at the end. There is one em-dash, which is acceptable. No tricolons, no asyndetic parallelism, and no informal example formatting (like 'think:').
+
+Step 3: Weigh red flags against overall structure. There are no significant or cumulative minor deviations. The post is practical, educational, and follows Shaw's typical structure and tone.
+
+Step 4: Cross-reference with examples. This post is highly consistent with Shaw's positive examples, especially those that list project ideas or explain technical concepts in a stepwise, practical manner.
+
+Step 5: Final check. The post provides clear value, follows the hook-problem-solution structure, and ends with a factual engagement prompt. No red flags or cumulative minor deviations are present."

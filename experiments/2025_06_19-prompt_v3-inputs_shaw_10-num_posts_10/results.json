@@ -1,0 +1,16 @@
+{
+  "name": "2025_06_19-prompt_v3-inputs_shaw_10-num_posts_10",
+  "date": "2025-06-19",
+  "num_posts": 10,
+  "average_pass_rate": 0.55,
+  "percent_all_passed": 0.3,
+  "percent_all_failed": 0.2,
+  "eval_results": {
+    "eval_em_dashes": {
+      "pass_rate": 0.5
+    },
+    "eval_voice": {
+      "pass_rate": 0.6
+    }
+  }
+}

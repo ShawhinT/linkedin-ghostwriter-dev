@@ -1,0 +1,23 @@
+name: 2025_06_19-prompt_v1-inputs_shaw_test-num_posts_10
+date: '2025-06-19'
+prompt_name: prompt-v1
+prompt_path: prompts/ghostwriter/prompt-v1.md
+model:
+  name: gpt-4.1-2025-04-14
+  temperature: 1
+inputs:
+  num_posts: 10
+  total_posts: 10
+  input_path: data/inputs/inputs-shaw-test.csv
+evals:
+  eval_em_dashes:
+    description: Evaluates the number of em-dashes in a post.
+    type: code-based
+    args: null
+  eval_voice:
+    description: Evaluates the voice of a LinkedIn post using an LLM Judge.
+    type: LLM-based
+    args:
+      prompt_path: prompts/judge-voice/prompt-v7.md
+      model_name: gpt-4.1-2025-04-14
+notes: ''
